@@ -57,10 +57,5 @@ plt.show()
 
 ![Screenshot 2025-04-26 153755](https://github.com/user-attachments/assets/1401e142-52d3-471c-9a96-a7e129e01b7b)
 
-
-## Result:
-
-Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
-
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
